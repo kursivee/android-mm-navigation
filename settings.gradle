@@ -1,0 +1,2 @@
+include ':app', ':navigation', ':app-navigation-config', ':feature1'
+rootProject.name='Navigation Application'
